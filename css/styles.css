@@ -1,0 +1,15 @@
+.flashy {
+  float: left;
+  width: 27%;
+}
+.resize {
+  width: 90%;
+}
+.sidebar{
+float: right;
+width: 15%;
+background-color: green;
+/* margin-top: 10px;
+margin-bottom: 15px; */
+padding-bottom: 100%;
+}
